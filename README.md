@@ -18,8 +18,8 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kafka-demo.git
-   cd kafka-demo
+   git clone https://github.com/Parzi68/KafkaSpringBoot.git
+   cd KafkaSpringBoot
 
 2. Start the Kafka broker and Zookeeper.
 
