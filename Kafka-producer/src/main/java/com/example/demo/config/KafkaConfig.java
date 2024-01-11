@@ -14,6 +14,8 @@ public class KafkaConfig {
 	public NewTopic topic() {
 		return TopicBuilder
 				.name(AppConstant.DATA2)
+				.partitions(3)
+				.replicas(2)
 				.build();
 	}
 }
